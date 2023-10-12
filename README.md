@@ -26,7 +26,7 @@ LangChain, Mindsdb, Llamaland, Pinecone, Chroma, Weaviate, etc.
 ### **Design Consideration**: 
 Frameworks should be adaptive, supporting both structured and unstructured data management, while databases must efficiently store and retrieve vector data.
 
-## 🌐 **4. ata, Labeling, Model Training & Refinement** 🎓
+## 🌐 **4. Data, Labeling, Model Training & Refinement** 🎓
 ### **Objective**: 
 Enhance pre-existing AI models for task specificity.
 ### **Tools**: 
@@ -46,7 +46,7 @@ Infrastructure must efficiently harness GPU resources for AI tasks, and also pro
 ### **Objective**: 
 Establish the base models that power specific AI innovations.
 ### **Tools**: 
-Huggingface, GPT-4, Claude, Llama 2, Stable Diffusion, ElevenLabs, Codex, etc.
+Huggingface, GPT-4, Claude, Llama 2, Cohere, MosaicML, Mistral AI, Stable Diffusion, ElevenLabs, Codex, etc.
 ### **Design Consideration**: 
 From text and images to audio and code, foundational models should be adaptable, ensuring extensive coverage of AI functionalities.
 
